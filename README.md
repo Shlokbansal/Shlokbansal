@@ -1,7 +1,7 @@
 #  Hi, I'm Shlok Bansal
 
 **Biomedical Engineer** | **Data Science Graduate Student @ Northeastern Silicon Valley**  
- Passionate about combining **AI, Machine Learning, and NLP** with **healthcare innovation** to build impactful, human-centered solutions.
+ Passionate about combining **AI, Machine Learning, and NLP** to build impactful, human-centered solutions.
 
 ---
 
