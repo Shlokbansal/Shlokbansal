@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Shlokbansal/Shlokbansal/refs/heads/main/ChatGPT%20Image%20Jul%206%2C%202025%2C%2011_04_44%20AM%20(1).png" alt="Shlok Bansal Banner" width="100%">
+
 #  Hi, I'm Shlok Bansal
 
 **Biomedical Engineer** | **Data Science Graduate Student @ Northeastern Silicon Valley**  
